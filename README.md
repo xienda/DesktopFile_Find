@@ -1,2 +1,2 @@
 # DesktopFile_Find
-桌面快速查找文件
+Python + PyQT5 桌面快速查找文件
